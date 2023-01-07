@@ -1,0 +1,57 @@
+.ytp-remote-button {
+    display:none !important;
+}
+.ytp-size-button {
+    display:none !important;
+}
+.ytp-miniplayer-button {
+    display:none !important;
+}
+.ytp-subtitles-button {
+    display:none !important;
+}
+.ytp-button[title="Hide chats"] {
+    display:none !important;
+}
+.ytp-button[data-tooltip-target-id="ytp-autonav-toggle-button"] {
+    display:none !important;
+}
+.ytp-next-button {
+    display:none !important;
+}
+.content {
+    display:none !important;
+}
+ytd-thumbnail-overlay-toggle-button-renderer {
+    display:none !important;
+}
+ytd-guide-collapsible-section-entry-renderer {
+    display:none !important;
+}
+ytd-menu-service-item-renderer:nth-child(1) {
+    display:none !important;
+}
+ytd-menu-service-item-renderer:nth-child(2) {
+    display:none !important;
+}
+ytd-menu-service-item-renderer:nth-child(3) {
+    display:none !important;
+}
+ytd-menu-service-item-renderer:nth-child(4) {
+    display:none !important;
+}
+ytd-guide-entry-renderer:nth-child(2) {
+    display:none !important;
+}
+ytd-guide-section-renderer:nth-child(3) {
+    display:none !important;
+}
+ytd-guide-section-renderer:nth-child(4) {
+    display:none !important;
+}`
+#footer {
+    display:none !important;
+}
+#header {
+    display:none !important;
+}
