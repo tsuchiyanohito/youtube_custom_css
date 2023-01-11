@@ -10,7 +10,7 @@
 .ytp-subtitles-button {
     display:none !important;
 }
-.ytp-button[title="Hide chats"] {
+.ytp-button[title="チャットを非表示にする"] {
     display:none !important;
 }
 .ytp-button[data-tooltip-target-id="ytp-autonav-toggle-button"] {
